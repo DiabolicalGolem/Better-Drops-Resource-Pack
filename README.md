@@ -1,5 +1,7 @@
 ﻿# Better Drops \(Resource Pack\)
 
+![pack.png](Better Drops \(Resource Pack\) Icon)
+
 *Adding drops to the dropless.*
 
 
