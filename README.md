@@ -1,6 +1,4 @@
-﻿# Better Drops \(Resource Pack\)
-
-![pack.png](Better Drops \(Resource Pack\) Icon)
+﻿# ![pack.png](https://github.com/DiabolicalGolem/Better-Drops-Resource-Pack/blob/main/pack.png) Better Drops \(Resource Pack\)
 
 *Adding drops to the dropless.*
 
