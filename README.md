@@ -1,4 +1,4 @@
-﻿# Better Drops \(Texture Pack\)
+﻿# Better Drops \(Resource Pack\)
 
 *Adding drops to the dropless.*
 
