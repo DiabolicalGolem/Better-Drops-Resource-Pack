@@ -11,6 +11,8 @@ This is the resource pack that contains concept art for a potential "Better Drop
 
 Because this is just a resource pack, there is no way for it to interface with the game on its own. To properly experience the concept, you must also install a [datapack](https://github.com/DiabolicalGolem/Better-Drops-Datapack/tree/main) ([instructions here](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack)) that alters the loot tables of the mobs in question.
 
+In addition, you will also need to have [CIT Resewn](https://modrinth.com/mod/cit-resewn/versions) installed.
+
 ## Mob Drops Included:
 
 - Allays
